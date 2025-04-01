@@ -52,7 +52,7 @@
         "title": "A framework for statistical modeling of superscalar processor performance",
         "pub_year": "1997",
         "citation": "Proceedings Third International Symposium on High-Performance Computer …, 1997",
-        "num_citations": 112,
+        "num_citations": 113,
         "author_pub_id": "pARKzQsAAAAJ:PR6Y55bgFSsC"
     },
     {
@@ -290,7 +290,7 @@
         "title": "Cache-line reuse-buffer",
         "pub_year": "2005",
         "citation": "US Patent 6,938,126, 2005",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "pARKzQsAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -331,7 +331,7 @@
         "title": "Characterizing human activity induced impulse and slip-pulse excitations through structural vibration",
         "pub_year": "2018",
         "citation": "Journal of Sound and Vibration 414, 61-80, 2018",
-        "num_citations": 25,
+        "num_citations": 28,
         "author_pub_id": "pARKzQsAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -435,7 +435,7 @@
         "title": "Cortical columns computing systems: Microarchitecture model, functional building blocks, and design tools",
         "pub_year": "2023",
         "citation": "Neuromorphic Computing, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "pARKzQsAAAAJ:OTTXONDVkokC"
     },
     {
@@ -477,7 +477,7 @@
         "title": "Die stacking (3D) microarchitecture",
         "pub_year": "2006",
         "citation": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture …, 2006",
-        "num_citations": 806,
+        "num_citations": 808,
         "author_pub_id": "pARKzQsAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -573,7 +573,7 @@
         "title": "Exceeding the dataflow limit via value prediction",
         "pub_year": "1996",
         "citation": "Proceedings of the 29th Annual IEEE/ACM International Symposium on …, 1996",
-        "num_citations": 751,
+        "num_citations": 754,
         "author_pub_id": "pARKzQsAAAAJ:mvPsJ3kp5DgC"
     },
     {
@@ -692,7 +692,7 @@
         "title": "Flexible processors: a promising application-specific processor design approach",
         "pub_year": "1988",
         "citation": "Proceedings of the 21st annual workshop on microprogramming and …, 1988",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "pARKzQsAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -815,7 +815,7 @@
         "title": "Inductive fault analysis of MOS integrated circuits",
         "pub_year": "2007",
         "citation": "IEEE Design & Test of Computers 2 (6), 13-26, 2007",
-        "num_citations": 664,
+        "num_citations": 665,
         "author_pub_id": "pARKzQsAAAAJ:z_wVstp3MssC"
     },
     {
@@ -954,7 +954,7 @@
         "title": "Mechanism for monitoring instruction set based thread execution on a plurality of instruction sequencers",
         "pub_year": "2011",
         "citation": "US Patent 8,010,969, 2011",
-        "num_citations": 85,
+        "num_citations": 86,
         "author_pub_id": "pARKzQsAAAAJ:fEOibwPWpKIC"
     },
     {
@@ -1031,7 +1031,7 @@
         "title": "Method and apparatus for contextual gesture recognition",
         "pub_year": "2012",
         "citation": "US Patent App. 13/156,557, 2012",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "pARKzQsAAAAJ:70eg2SAEIzsC"
     },
     {
@@ -1080,14 +1080,14 @@
         "title": "Method and apparatus to improve execution of a stored program",
         "pub_year": "2013",
         "citation": "US Patent 8,346,760, 2013",
-        "num_citations": 37,
+        "num_citations": 40,
         "author_pub_id": "pARKzQsAAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "Method and apparatus to improve execution of a stored program",
         "pub_year": "2009",
         "citation": "US Patent 7,580,914, 2009",
-        "num_citations": 26,
+        "num_citations": 29,
         "author_pub_id": "pARKzQsAAAAJ:ILKRHgRFtOwC"
     },
     {
@@ -1157,7 +1157,7 @@
         "title": "Methods and apparatus for generating speculative helper thread spawn-target points",
         "pub_year": "2009",
         "citation": "US Patent 7,523,465, 2009",
-        "num_citations": 61,
+        "num_citations": 63,
         "author_pub_id": "pARKzQsAAAAJ:URolC5Kub84C"
     },
     {
@@ -1225,14 +1225,14 @@
         "title": "Mitosis: A speculative multithreaded processor based on precomputation slices",
         "pub_year": "2008",
         "citation": "IEEE Transactions on parallel and distributed systems 19 (7), 914-925, 2008",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "pARKzQsAAAAJ:gsN89kCJA0AC"
     },
     {
         "title": "Modern processor design: fundamentals of superscalar processors",
         "pub_year": "2013",
         "citation": "Waveland Press, 2013",
-        "num_citations": 648,
+        "num_citations": 649,
         "author_pub_id": "pARKzQsAAAAJ:738O_yMBCRsC"
     },
     {
@@ -1636,7 +1636,7 @@
         "title": "SemNet: Learning semantic attributes for human activity recognition with deep belief networks",
         "pub_year": "2022",
         "citation": "Frontiers in big Data 5, 879389, 2022",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "pARKzQsAAAAJ:_5tno0g5mFcC"
     },
     {
@@ -1727,7 +1727,7 @@
         "title": "Surfacevibe: vibration-based tap & swipe tracking on ubiquitous surfaces",
         "pub_year": "2017",
         "citation": "Proceedings of the 16th ACM/IEEE International Conference on Information …, 2017",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "pARKzQsAAAAJ:b1wdh0AR-JQC"
     },
     {
@@ -1783,7 +1783,7 @@
         "title": "Technique for thread communication and synchronization",
         "pub_year": "2011",
         "citation": "US Patent 8,019,947, 2011",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "pARKzQsAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -1972,7 +1972,7 @@
         "title": "User-programmable low-overhead multithreading",
         "pub_year": "2009",
         "citation": "US Patent 7,631,307, 2009",
-        "num_citations": 101,
+        "num_citations": 102,
         "author_pub_id": "pARKzQsAAAAJ:_Ybze24A_UAC"
     },
     {
@@ -1999,7 +1999,7 @@
         "title": "Value locality and load value prediction",
         "pub_year": "1996",
         "citation": "Proceedings of the seventh international conference on Architectural support …, 1996",
-        "num_citations": 970,
+        "num_citations": 974,
         "author_pub_id": "pARKzQsAAAAJ:9vf0nzSNQJEC"
     },
     {

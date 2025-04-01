@@ -288,7 +288,7 @@
         "title": "Spotting design problems with smell agglomerations",
         "pub_year": "2016",
         "citation": "Proceedings of the 38th International Conference on Software Engineering …, 2016",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "Fl1qHEAAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -337,7 +337,7 @@
         "title": "Understanding the impact of refactoring on smells: A longitudinal study of 23 software projects",
         "pub_year": "2017",
         "citation": "Proceedings of the 2017 11th Joint Meeting on foundations of Software …, 2017",
-        "num_citations": 112,
+        "num_citations": 113,
         "author_pub_id": "Fl1qHEAAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -365,7 +365,7 @@
         "title": "When Are Smells Indicators of Architectural Refactoring Opportunities? A Study of 50 Software Projects",
         "pub_year": "2020",
         "citation": "ICPC, 2020",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "Fl1qHEAAAAAJ:IWHjjKOFINEC"
     }
 ]
